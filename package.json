@@ -1,0 +1,17 @@
+{
+  "name": "newwebsite",
+  "version": "1.0.0",
+  "description": "This site is to just check how I am able to create a complete frontend & backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
